@@ -1,0 +1,11 @@
+@import './base.css';
+
+body{
+  margin: 0;
+
+
+}
+
+#app{
+  height: 100%;
+}
